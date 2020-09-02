@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Icebreaker</string>
+    <string name="btnGetNewQuestion">Get a new random question</string>
+    <string name="txtQuestion">Question Text</string>
 </resources>
