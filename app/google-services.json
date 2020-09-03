@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "53403040246",
+    "firebase_url": "https://icebreaker-9f78d.firebaseio.com",
+    "project_id": "icebreaker-9f78d",
+    "storage_bucket": "icebreaker-9f78d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53403040246:android:2edc3259bcba937d396fd7",
+        "android_client_info": {
+          "package_name": "edu.newhaven.icebreaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53403040246-qq3f11bid1t5rglnqh2qcc9ho7f1q1s6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE-o-oTWnhC_cFbUgJKW0OWU17XZyhn-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53403040246-qq3f11bid1t5rglnqh2qcc9ho7f1q1s6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
