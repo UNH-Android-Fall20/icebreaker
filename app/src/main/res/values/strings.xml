@@ -2,4 +2,10 @@
     <string name="app_name">Icebreaker</string>
     <string name="btnGetNewQuestion">Get a new random question</string>
     <string name="txtQuestion">Question Text</string>
+    <string name="question_thrones">What is your Game of Thrones house?</string>
+    <string name="question_dream_job">What is your dream job?</string>
+    <string name="question_vacation">What is your ideal vacation destination?</string>
+    <string name="question_favorite_book">What is your favorite book?</string>
+    <string name="question_favorite_movie">What is your favorite movie?</string>
+    <string name="question_favorite_food">What is your favorite food?</string>
 </resources>
