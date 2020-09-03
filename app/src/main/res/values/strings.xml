@@ -8,4 +8,5 @@
     <string name="question_favorite_book">What is your favorite book?</string>
     <string name="question_favorite_movie">What is your favorite movie?</string>
     <string name="question_favorite_food">What is your favorite food?</string>
+    <string name="btnSubmit">SUBMIT</string>
 </resources>
