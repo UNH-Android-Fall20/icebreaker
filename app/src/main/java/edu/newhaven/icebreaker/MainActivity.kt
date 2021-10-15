@@ -43,7 +43,8 @@ class MainActivity : AppCompatActivity() {
                         "firstname" to txtFirstName.text.toString(),
                         "lastname" to txtLastName.text.toString(),
                         "question" to lblQuestion.text,
-                        "answer" to txtAnswer.text.toString()
+                        "answer" to txtAnswer.text.toString(),
+                        "class" to "android-fall21"
                     )
 
                     db.collection("students")
