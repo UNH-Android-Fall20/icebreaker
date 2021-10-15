@@ -46,10 +46,10 @@ class MainActivity : AppCompatActivity() {
                         "lastname" to txtLastName.text.toString(),
                         "question" to lblQuestion.text,
                         "answer" to txtAnswer.text.toString(),
-                        "class" to className
+                        "class1" to className
                     )
 
-                    db.collection("students")
+                    db.collection("students1")
                         .add(student)
                         .addOnSuccessListener { documentReference ->
                             Log.d(
