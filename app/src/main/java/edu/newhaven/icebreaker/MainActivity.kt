@@ -12,6 +12,8 @@ class MainActivity : AppCompatActivity() {
 
     private val db = FirebaseFirestore.getInstance()
 
+    private val className = "android-fall21"
+
     private lateinit var questionBank: MutableList<Question>
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -43,7 +45,8 @@ class MainActivity : AppCompatActivity() {
                         "firstname" to txtFirstName.text.toString(),
                         "lastname" to txtLastName.text.toString(),
                         "question" to lblQuestion.text,
-                        "answer" to txtAnswer.text.toString()
+                        "answer" to txtAnswer.text.toString(),
+                        "class" to className
                     )
 
                     db.collection("students")
